@@ -1,4 +1,5 @@
 # hr-service-registry
 Service registry for HR System.
 
-![hr_system drawio](https://user-images.githubusercontent.com/60593328/147386946-188f5976-0228-4dca-b3c9-2019e8a03e78.png)
+
+![hr_system drawio (1)](https://user-images.githubusercontent.com/60593328/147387017-95f06dec-631e-40bb-8a3e-e3cd0bae5e82.png)
